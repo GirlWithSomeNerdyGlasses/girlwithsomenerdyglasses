@@ -2,7 +2,7 @@
 
 ### I'm an 17 year old programmer
 
-- Story:  I started programming back in June 2024, so I may not be the best
+- Experience:  I started programming back in June 2024, so I may not be the best
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
