@@ -10,9 +10,12 @@
 
 </div>
 
-
+<p align="center">
+  
 - Fun fact: I started programming back in June 2024, so I may not be the best
 - Projects: All repo are private
+  
+</p>
 
 
 <h3 align="center">Languages</h3>
