@@ -24,7 +24,7 @@
 <h3>I'm good at OSINT (I don't abuse this)</h3>
 <h3>Learning C</h3>
 <h3>Got into programming in 2024 so I may not be good</h3>
-
+<h3>Backend development scares me</h3>
 </div>
 
 
