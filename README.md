@@ -25,6 +25,7 @@
 <h3>Learning C</h3>
 <h3>Got into programming in 2024 so I may not be good</h3>
 <h3>Backend development scares me</h3>
+<h3>All repo are private</h3>
 </div>
 
 
