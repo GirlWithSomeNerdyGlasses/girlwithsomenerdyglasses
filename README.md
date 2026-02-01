@@ -4,6 +4,7 @@
 
 # 💫 About Me:
 Nice to meet y'all I'm Elias a 17 year old <br>I am self taught programmer and a front end developer<br>(Since 2024) 
+backend development scares me
 
 
 # 💻 Tech Stack:
