@@ -4,9 +4,10 @@
 
 # Intro:
 Nice to meet y'all I'm Elias a 17 year old <br>I am self taught programmer and a front end developer<br>(Since 2024) 
-I code things
+
 
 backend development scares me
+I code things
 
 
 # What I know:
